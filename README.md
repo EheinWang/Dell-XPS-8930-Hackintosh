@@ -22,3 +22,6 @@ Almost everything
 
 # WHAT DOESN'T WORK?
 WiFi, Bluetooth and Airdrop
+
+# Please note：
+Remember to use the editing tool to change the serial number
