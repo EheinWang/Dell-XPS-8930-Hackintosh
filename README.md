@@ -1,4 +1,4 @@
-# Dell-XPS-8930-Opencore-0.9.8
+# Dell-XPS-8930-OpenCore-0.9.8
 OpenCore for macOS 14.3.1 (23D60) on Dell XPS 8930
 # Machine Info：
 
